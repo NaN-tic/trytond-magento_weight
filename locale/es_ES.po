@@ -1,0 +1,11 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.shop,esale_weight_uom:"
+msgid "Weight Uom"
+msgstr "UdM peso"
+
+msgctxt "help:sale.shop,esale_weight_uom:"
+msgid "Default Weight Uom"
+msgstr "UdM peso por defecto"

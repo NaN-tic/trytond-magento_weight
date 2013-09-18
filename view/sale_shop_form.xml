@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- This file is part magento_weight module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full copyright notices and license terms. -->
+<data>
+    <xpath
+        expr="/form/notebook/page[@id='esale']/notebook/page[@id='configuration']/notebook/page[@id='general']/field[@name='esale_price']"
+        position="after">
+            <label name="esale_weight_uom"/>
+            <field name="esale_weight_uom"/>
+    </xpath>
+</data>
