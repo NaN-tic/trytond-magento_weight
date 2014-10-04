@@ -12,6 +12,7 @@ MODULE = 'magento_weight'
 PREFIX = 'trytonzz'
 MODULE2PREFIX = {}
 
+
 def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
